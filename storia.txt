@@ -1,0 +1,14 @@
+user.name=vincenzo22anastasio
+user.email=vincenzo.anastasio@marconirovereto.it
+gpg.program=/.codespaces/bin/gh-gpgsign
+init.defaultbranch=main
+credential.helper=/.codespaces/bin/gitcredential_github.sh
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+user.name=Vincenzo Anastasio
+user.email=vincenzo.anastasio@marconirovereto.it
+core.repositoryformatversion=0
+core.filemode=true
+:
